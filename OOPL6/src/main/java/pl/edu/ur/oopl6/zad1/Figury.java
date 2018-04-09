@@ -39,6 +39,7 @@ public class Figury {
 
     public static double ObPros(double r, double s) {
         return 2 * s + 2 * r;
+        
     }
 
     public static double PoleWalc(double r, double H) {
