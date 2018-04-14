@@ -36,3 +36,6 @@ public class Punkt {
     }
 
 }
+//Program ukazuje 10 różnych punktów o współrzędnych x, y, z dla których wartości są przypisywane losowo
+// a na samym końcu wypisuje jeszcze 2 razy punkt o współrzędnych który został wypisany jako 10 punkt.
+//Dzieję się tak za pomocą metody statycznej która jest w klasie public ObjectCounter. Ona generuje 10 różnych punktów o losowych wspołrzędnych.
